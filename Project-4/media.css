@@ -1,0 +1,182 @@
+@media only screen and (min-width:200px) and (max-width:567px) {
+   
+   header{
+      position: sticky;
+      top: 0%;
+   }
+
+   header nav aside:nth-child(1) {
+      margin: auto;
+   }
+
+   header nav aside:nth-child(2) {
+      display: none;
+   }
+
+   main {
+      background-size: cover;
+   }
+
+   main section {
+      display: block;
+
+   }
+
+   .form{
+      width: 83%;
+   }
+
+   main section aside:nth-child(1) {
+      width: 100%;
+   }
+
+   main section aside:nth-child(2) {
+      width: 100%;
+   }
+
+   main section aside h2,
+   h3 {
+      text-align: center;
+   }
+
+   main section aside img {
+      padding: 2px 15px;
+   }
+
+   main section .packing {
+      padding-left:23px;
+
+   }
+
+   .box {
+      width: 98%;
+      background-color: #ccc;
+      margin: 1%;
+      border-radius: 10px;
+   }
+
+   .core-head {
+      padding-left: 82px;
+   }
+
+   section .row-1 {
+      display: flex;
+      flex-wrap: wrap;
+   }
+
+   section .row-1-left {
+      width: 100%;
+      margin: 10px;
+
+   }
+
+   .row-1-left-head {
+      padding: 0px 0px;
+   }
+
+   section .row-1-left img {
+      width: 100%;
+   }
+
+   section .row-1-right {
+      width: 100%;
+   }
+
+   .get-quote {
+      margin-left: 162px;
+   }
+
+   section .row-2 {
+      display: flex;
+      flex-wrap: wrap;
+   }
+
+   section .row-2-left {
+      width: 100%;
+      margin: 10px;
+
+   }
+
+   .row-2-left-head {
+      padding: 0px 0px;
+   }
+
+   section .row-2-left img {
+      width: 100%;
+   }
+
+   section .row-2-right {
+      width: 100%;
+   }
+
+   .whypack {
+      padding-left: 113px;
+   }
+
+   .whychoose {
+      padding-left: 75px;
+   }
+
+   .feature-1 {
+      padding: 10px 10px;
+      width: 183px;
+   }
+
+
+   .ourachivement {
+      padding-left: 131px;
+
+   }
+
+   .ourachivement i{
+      padding-left: 0px;
+
+   }
+   .achsubline {
+      padding-left: 0px;
+   }
+
+   .ourachivement h4 {
+
+      padding: 8px;
+      
+   }
+
+   .iconrow {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 1px 1px;
+   }
+
+   .icon1 {
+      width: 36%;
+
+   }
+
+   .happycustomers{
+      max-width: 100%;
+      padding-left: 131px;
+   }
+   
+   .ourclients{
+      max-width: 100%;
+      padding-left: 131px;
+   }
+
+   .imgscroll{
+      display: flex;
+      flex-wrap: wrap;
+      padding-left: 0px;
+   }
+
+   .imgscroll img{
+     
+      padding: 0px 133px;
+      
+   }
+   .address-phone{
+
+   width: 50%;
+   margin-left: 111px;
+   }
+}
